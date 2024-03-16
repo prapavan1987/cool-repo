@@ -8,3 +8,4 @@
 2. In Chrome, open Dev Tools, Elements tab.
 3. Return to VSCode and start working on your Challenges.
 4. When you want to check if your code is correct, save changes, go to Chrome and refresh the page.
+I did the cloning and going to commit and push
